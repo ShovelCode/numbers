@@ -1,0 +1,6 @@
+Floor in lava, for 2D platformer and such
+
+0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0
+0,0,1,1,1,1,0,0
+
